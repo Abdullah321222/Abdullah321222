@@ -17,3 +17,29 @@
 
 Hello! I'm **Abdullah Siddiqui**, a passionate developer skilled in various technologies. I enjoy creating innovative solutions and continuously learning new things. I'm particularly interested in web development, data science, and machine learning.
 
+Here are some of my notable projects:
+
+1. **[Handwritten Digit Recognition]
+   - **Description**: A machine learning model that recognizes handwritten digits from images, utilizing neural networks for classification.
+   - **Technologies Used**: Python, TensorFlow, OpenCV.
+   - **Features**: Real-time recognition, user-friendly interface.
+
+2. **[3D Animation Website](https://3dmainabdullahsite.netlify.app/)**
+   - **Description**: A creative platform showcasing interactive 3D animations using WebGL.
+   - **Technologies Used**: JavaScript, Three.js, HTML5, CSS3.
+   - **Features**: Interactive animations, responsive design, and smooth user experience.
+
+3. **[E-commerce Website]
+   - **Description**: A full-fledged e-commerce platform enabling users to browse products, add to cart, and checkout seamlessly.
+   - **Technologies Used**: React.js, Node.js, Express.js, MongoDB.
+   - **Features**: User authentication, product filtering, and payment gateway integration.
+
+4. **[Face Recognition System]
+   - **Description**: An application that identifies and verifies faces in images or videos using machine learning techniques.
+   - **Technologies Used**: Python, OpenCV, face_recognition library.
+   - **Features**: Real-time detection, high accuracy, and secure authentication.
+
+## 🌱 Currently Learning
+- Exploring advanced concepts in Machine Learning.
+- Deepening my knowledge of cloud technologies like AWS and Azure.
+- Learning about containerization with Docker and Kubernetes.
