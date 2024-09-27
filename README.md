@@ -12,6 +12,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-lightgrey)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Intermediate-blueviolet)
+![Power BI](https://img.shields.io/badge/Power%20BI-Basic-F2C94C?style=flat-square&logo=powerbi&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-Basic-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermediate-4B0082?style=flat-square&logo=security&logoColor=white)
 
 
 ![Banner](https://www.prostackacademy.com/static/media/pythonfullstack.9a21d53e.jpg)
@@ -20,6 +23,9 @@
 
 - [LinkedIn](https://www.linkedin.com/in/abdullah-shamshuddin-siddiqui-4469701b4)
 - [Portfolio](https://main--abdullahport5636.netlify.app/)
+
+- [![trophy](https://github-profile-trophy.vercel.app/?username=Abdullah321222&theme=radical&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## About Me
