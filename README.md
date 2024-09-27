@@ -53,6 +53,38 @@ Here are some of my notable projects:
    - **Technologies Used**: Python, OpenCV, face_recognition library.
    - **Features**: Real-time detection, high accuracy, and secure authentication.
 
+
+# Upcoming Projects
+
+## 1. Jarvis2 Chat AI with Voice Integration
+**Description**:  
+Jarvis2 is an advanced AI-powered chat assistant designed to enhance user interaction through natural language processing and voice recognition. The project aims to create a seamless communication experience, allowing users to engage with the assistant using voice commands.
+
+**Key Features**:
+- **Voice Recognition**: Users can interact with Jarvis2 through voice commands, making the experience hands-free and intuitive.
+- **Email Integration**: The application will include a dedicated page for Gmail, allowing users to read, send, and manage emails directly through the AI interface.
+- **Advanced Integrations**: Jarvis2 will support integration with various APIs, including calendar management, reminders, and task tracking, to create a centralized hub for productivity.
+- **Personalization**: The AI will learn from user interactions to provide personalized recommendations and responses, improving the overall user experience over time.
+- **Cross-Platform Support**: The application will be available on multiple platforms, including web, mobile, and desktop, ensuring accessibility for all users.
+
+---
+
+## 2. Data Collection System for Dental Practice
+**Description**:  
+This project aims to collaborate with a local dentist to develop a data collection system that streamlines patient information management. The system will help in gathering, organizing, and analyzing patient data to improve treatment and enhance patient care.
+
+**Key Features**:
+- **Patient Database Management**: Create a secure database for storing patient information, including medical history, treatment plans, and appointment schedules.
+- **Data Analysis**: Utilize data analytics to identify trends and patterns in patient treatments, helping the dentist make informed decisions about patient care.
+- **User-Friendly Interface**: Design an intuitive user interface that allows the dental staff to easily input and retrieve patient data.
+- **Compliance and Security**: Implement security measures to protect patient information and ensure compliance with healthcare regulations (e.g., HIPAA).
+- **Feedback Mechanism**: Include a feature for patients to provide feedback on their treatment, helping improve service quality.
+
+---
+
+### Summary
+These projects not only reflect my commitment to leveraging technology to solve real-world problems but also showcase my skills in AI development, data management, and user interface design. I am excited to embark on these projects and contribute positively to user experiences and healthcare practices.
+
 ## 🏆 Awards & Certifications
 - **Certified Machine Learning Specialist** 
 - **React.js Developer Certification** 
