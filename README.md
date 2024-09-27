@@ -31,6 +31,43 @@
 
 Hello! I'm **Abdullah Siddiqui**, a passionate developer skilled in various technologies. I enjoy creating innovative solutions and continuously learning new things. I'm particularly interested in web development, data science, and machine learning.
 
+# 🏢 Internships
+
+## 1. Software Development Intern 💻
+**Company**: [Codely.ai](https://codely.ai/)  
+**Location**: Remote  
+
+**Description**:  
+During my internship at Tech Innovations, I contributed to various projects that focused on developing innovative software solutions. I collaborated with a dynamic team of developers and learned to apply best practices in software development.
+
+### Key Responsibilities:
+- 🛠️ Developed and maintained web applications using React and Node.js.
+- 🤝 Collaborated with cross-functional teams to gather requirements and implement features.
+- 🐛 Identified and resolved bugs to enhance application performance.
+- 📈 Participated in code reviews and contributed to team discussions.
+
+---
+
+## 2. Data Scientist Intern 📊
+**Company**: [Infinity Learning]()  
+**Duration**: March 2023 - Dec 2023  
+**Location**: On-site and Remote
+
+**Description**:  
+As a Data Scientist intern at Data Insights, I focused on analyzing large datasets and building predictive models. This experience honed my analytical skills and deepened my understanding of data-driven decision-making.
+
+### Key Responsibilities:
+- 📉 Analyzed complex datasets using Python and SQL to derive actionable insights.
+- 📊 Developed machine learning models to predict customer behavior and trends.
+- 📈 Visualized data using tools like Tableau and Matplotlib to communicate findings.
+- 🤔 Assisted in designing experiments to test hypotheses and validate results.
+
+---
+
+### 🌟 Summary
+These internship experiences have equipped me with valuable skills in software development and data science. I am passionate about leveraging technology to drive innovation and enhance user experiences in the tech industry. I look forward to applying these skills in future projects!
+
+
 Here are some of my notable projects:
 
 1. **[Handwritten Digit Recognition]
