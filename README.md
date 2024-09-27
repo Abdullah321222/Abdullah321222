@@ -1,4 +1,5 @@
-# ![Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png) 👋 Hi, I'm Abdullah Siddiqui
+# # <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL49hcZhcrLw6koYK2ktv8t7f_OS7a9dtyng&s" alt="Logo" width="50" height="50" /> 👋 Hi, I'm Abdullah Siddiqui
+ 👋 Hi, I'm Abdullah Siddiqui
 
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
