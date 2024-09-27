@@ -2,6 +2,8 @@
  👋 Hi, I'm Abdullah Siddiqui
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah321222&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah321222&layout=compact&theme=radical)
+
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![React](https://img.shields.io/badge/React-Intermediate-lightblue)
