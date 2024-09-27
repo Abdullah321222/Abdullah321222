@@ -44,6 +44,10 @@ Here are some of my notable projects:
    - **Technologies Used**: Python, OpenCV, face_recognition library.
    - **Features**: Real-time detection, high accuracy, and secure authentication.
 
+## 🏆 Awards & Certifications
+- **Certified Machine Learning Specialist** 
+- **React.js Developer Certification** 
+
 ## 🌱 Currently Learning
 - Exploring advanced concepts in Machine Learning.
 - Deepening my knowledge of cloud technologies like AWS and Azure.
