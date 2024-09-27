@@ -13,6 +13,7 @@
 - [Portfolio](https://main--abdullahport5636.netlify.app/)
 
 
-## Certifications
+## About Me
 
-![Certification](file:///C:/Users/asidd/Downloads/Abdullah%20Internship%20Completion%20Letter.pdf)
+Hello! I'm **Abdullah Siddiqui**, a passionate developer skilled in various technologies. I enjoy creating innovative solutions and continuously learning new things. I'm particularly interested in web development, data science, and machine learning.
+
