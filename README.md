@@ -9,7 +9,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/abdullah-shamshuddin-siddiqui-4469701b4)
+- [LinkedIn](https://www.linkedin.com/in/abdullah-shamshuddin-siddiqui-4469701b4)
 - [Portfolio](https://main--abdullahport5636.netlify.app/)
 
 
