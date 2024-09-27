@@ -1,5 +1,4 @@
 # # <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL49hcZhcrLw6koYK2ktv8t7f_OS7a9dtyng&s" alt="Logo" width="50" height="50" /> 👋 Hi, I'm Abdullah Siddiqui
- 👋 Hi, I'm Abdullah Siddiqui
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah321222&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah321222&layout=compact&theme=radical)
