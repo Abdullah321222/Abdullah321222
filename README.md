@@ -1,0 +1,7 @@
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![React](https://img.shields.io/badge/React-Intermediate-lightblue)
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-brightgreen)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-yellowgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-lightgrey)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Intermediate-blueviolet)
