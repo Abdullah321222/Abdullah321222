@@ -1,3 +1,6 @@
+# ![Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png) 👋 Hi, I'm Abdullah Siddiqui
+
+
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![React](https://img.shields.io/badge/React-Intermediate-lightblue)
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-brightgreen)
