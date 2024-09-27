@@ -10,6 +10,8 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Intermediate-blueviolet)
 
 
+![Banner](https://www.prostackacademy.com/static/media/pythonfullstack.9a21d53e.jpg)
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abdullah-shamshuddin-siddiqui-4469701b4)
