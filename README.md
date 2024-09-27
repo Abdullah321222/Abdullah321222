@@ -43,3 +43,6 @@ Here are some of my notable projects:
 - Exploring advanced concepts in Machine Learning.
 - Deepening my knowledge of cloud technologies like AWS and Azure.
 - Learning about containerization with Docker and Kubernetes.
+## 🎨 Fun Facts
+- I love designing user interfaces and focusing on user experience.
+- In my free time, I enjoy reading tech blogs and learning new programming languages.
